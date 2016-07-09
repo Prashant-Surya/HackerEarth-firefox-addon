@@ -1,0 +1,18 @@
+{
+  "title": "HackerEarth",
+  "name": "hackerearth",
+  "icon": "./icon.png",
+  "version": "1.0.0",
+  "description": "HackerEarth Extension keeps you updated with upcoming challenges and other resources on HackerEarth.",
+  "main": "index.js",
+  "author": "Surya Prashanth",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "permissions": {
+    "cross-domain-content": ["http://www.hackerearth.com/", "https://www.hackerearth.com/"]
+    },
+  "keywords": [
+    "hackerearth", "programming", "coding"
+  ]
+}
